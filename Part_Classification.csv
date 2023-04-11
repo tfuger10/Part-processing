@@ -1,0 +1,996 @@
+Iteration,Part Name,Material,Manufacturing Process
+1,Bench1-01,Hot Rolled Steel,Metal Band Saw
+1,Bench1-02,White Oak,Panel Saw
+1,Bench1-03,White Oak,Panel Saw
+1,Bench1-04,White Oak,Panel Saw
+2,Bench1-01,Hot Rolled Steel,Metal Band Saw
+2,Bench1-02,White Oak,Panel Saw
+2,Bench1-03,White Oak,Panel Saw
+2,Bench1-04,White Oak,Panel Saw
+3,Bench1-01,Hot Rolled Steel,Metal Band Saw
+3,Bench1-02,White Oak,Panel Saw
+3,Bench1-03,White Oak,Panel Saw
+3,Bench1-04,White Oak,Panel Saw
+4,Bench1-01,Hot Rolled Steel,Metal Band Saw
+4,Bench1-02,White Oak,Panel Saw
+4,Bench1-03,White Oak,Panel Saw
+4,Bench1-04,White Oak,Panel Saw
+5,Bench1-01,Hot Rolled Steel,Metal Band Saw
+5,Bench1-02,White Oak,Panel Saw
+5,Bench1-03,White Oak,Panel Saw
+5,Bench1-04,White Oak,Panel Saw
+6,Bench1-01,Hot Rolled Steel,Metal Band Saw
+6,Bench1-02,White Oak,Panel Saw
+6,Bench1-03,White Oak,Panel Saw
+6,Bench1-04,White Oak,Panel Saw
+7,Bench1-01,Hot Rolled Steel,Metal Band Saw
+7,Bench1-02,White Oak,Panel Saw
+7,Bench1-03,White Oak,Panel Saw
+7,Bench1-04,White Oak,Panel Saw
+8,Bench1-01,Hot Rolled Steel,Metal Band Saw
+8,Bench1-02,White Oak,Panel Saw
+8,Bench1-03,White Oak,Panel Saw
+8,Bench1-04,White Oak,Panel Saw
+9,Bench1-01,Hot Rolled Steel,Metal Band Saw
+9,Bench1-02,White Oak,Panel Saw
+9,Bench1-03,White Oak,Panel Saw
+9,Bench1-04,White Oak,Panel Saw
+10,Bench1-01,Hot Rolled Steel,Metal Band Saw
+10,Bench1-02,White Oak,Panel Saw
+10,Bench1-03,White Oak,Panel Saw
+10,Bench1-04,White Oak,Panel Saw
+11,Bench1-01,Hot Rolled Steel,Metal Band Saw
+11,Bench1-02,White Oak,Panel Saw
+11,Bench1-03,White Oak,Panel Saw
+11,Bench1-04,White Oak,Panel Saw
+12,Bench1-01,Hot Rolled Steel,Metal Band Saw
+12,Bench1-02,White Oak,Panel Saw
+12,Bench1-03,White Oak,Panel Saw
+12,Bench1-04,White Oak,Panel Saw
+13,Bench1-01,Hot Rolled Steel,Metal Band Saw
+13,Bench1-02,White Oak,Panel Saw
+13,Bench1-03,White Oak,Panel Saw
+13,Bench1-04,White Oak,Panel Saw
+14,Bench1-01,Hot Rolled Steel,Metal Band Saw
+14,Bench1-02,White Oak,Panel Saw
+14,Bench1-03,White Oak,Panel Saw
+14,Bench1-04,White Oak,Panel Saw
+15,Bench1-01,Hot Rolled Steel,Metal Band Saw
+15,Bench1-02,White Oak,Panel Saw
+15,Bench1-03,White Oak,Panel Saw
+15,Bench1-04,White Oak,Panel Saw
+16,Bench1-01,Hot Rolled Steel,Metal Band Saw
+16,Bench1-02,White Oak,Panel Saw
+16,Bench1-03,White Oak,Panel Saw
+16,Bench1-04,White Oak,Panel Saw
+1,Bench2-01,Hot Rolled Steel,Metal Band Saw
+1,Bench2-02,White Oak,Panel Saw
+1,Bench2-03,White Oak,Panel Saw
+1,Bench2-04,White Oak,Panel Saw
+2,Bench2-01,Hot Rolled Steel,Metal Band Saw
+2,Bench2-02,White Oak,Panel Saw
+2,Bench2-03,White Oak,Panel Saw
+2,Bench2-04,White Oak,Panel Saw
+3,Bench2-01,Hot Rolled Steel,Metal Band Saw
+3,Bench2-02,White Oak,Panel Saw
+3,Bench2-03,White Oak,Panel Saw
+3,Bench2-04,White Oak,Panel Saw
+4,Bench2-01,Hot Rolled Steel,Metal Band Saw
+4,Bench2-02,White Oak,Panel Saw
+4,Bench2-03,White Oak,Panel Saw
+4,Bench2-04,White Oak,Panel Saw
+5,Bench2-01,Hot Rolled Steel,Metal Band Saw
+5,Bench2-02,White Oak,Panel Saw
+5,Bench2-03,White Oak,Panel Saw
+5,Bench2-04,White Oak,Panel Saw
+6,Bench2-01,Hot Rolled Steel,Metal Band Saw
+6,Bench2-02,White Oak,Panel Saw
+6,Bench2-03,White Oak,Panel Saw
+6,Bench2-04,White Oak,Panel Saw
+7,Bench2-01,Hot Rolled Steel,Metal Band Saw
+7,Bench2-02,White Oak,Panel Saw
+7,Bench2-03,White Oak,Panel Saw
+7,Bench2-04,White Oak,Panel Saw
+8,Bench2-01,Hot Rolled Steel,Metal Band Saw
+8,Bench2-02,White Oak,Panel Saw
+8,Bench2-03,White Oak,Panel Saw
+8,Bench2-04,White Oak,Panel Saw
+9,Bench2-01,Hot Rolled Steel,Metal Band Saw
+9,Bench2-02,White Oak,Panel Saw
+9,Bench2-03,White Oak,Panel Saw
+9,Bench2-04,White Oak,Panel Saw
+10,Bench2-01,Hot Rolled Steel,Metal Band Saw
+10,Bench2-02,White Oak,Panel Saw
+10,Bench2-03,White Oak,Panel Saw
+10,Bench2-04,White Oak,Panel Saw
+11,Bench2-01,Hot Rolled Steel,Metal Band Saw
+11,Bench2-02,White Oak,Panel Saw
+11,Bench2-03,White Oak,Panel Saw
+11,Bench2-04,White Oak,Panel Saw
+12,Bench2-01,Hot Rolled Steel,Metal Band Saw
+12,Bench2-02,White Oak,Panel Saw
+12,Bench2-03,White Oak,Panel Saw
+12,Bench2-04,White Oak,Panel Saw
+13,Bench2-01,Hot Rolled Steel,Metal Band Saw
+13,Bench2-02,White Oak,Panel Saw
+13,Bench2-03,White Oak,Panel Saw
+13,Bench2-04,White Oak,Panel Saw
+14,Bench2-01,Hot Rolled Steel,Metal Band Saw
+14,Bench2-02,White Oak,Panel Saw
+14,Bench2-03,White Oak,Panel Saw
+14,Bench2-04,White Oak,Panel Saw
+15,Bench2-01,Hot Rolled Steel,Metal Band Saw
+15,Bench2-02,White Oak,Panel Saw
+15,Bench2-03,White Oak,Panel Saw
+15,Bench2-04,White Oak,Panel Saw
+16,Bench2-01,Hot Rolled Steel,Metal Band Saw
+16,Bench2-02,White Oak,Panel Saw
+16,Bench2-03,White Oak,Panel Saw
+16,Bench2-04,White Oak,Panel Saw
+17,Bench2-01,Hot Rolled Steel,Metal Band Saw
+17,Bench2-02,White Oak,Panel Saw
+17,Bench2-03,White Oak,Panel Saw
+17,Bench2-04,White Oak,Panel Saw
+18,Bench2-01,Hot Rolled Steel,Metal Band Saw
+18,Bench2-02,White Oak,Panel Saw
+18,Bench2-03,White Oak,Panel Saw
+18,Bench2-04,White Oak,Panel Saw
+19,Bench2-01,Hot Rolled Steel,Metal Band Saw
+19,Bench2-02,White Oak,Panel Saw
+19,Bench2-03,White Oak,Panel Saw
+19,Bench2-04,White Oak,Panel Saw
+20,Bench2-01,Hot Rolled Steel,Metal Band Saw
+20,Bench2-02,White Oak,Panel Saw
+20,Bench2-03,White Oak,Panel Saw
+20,Bench2-04,White Oak,Panel Saw
+21,Bench2-01,Hot Rolled Steel,Metal Band Saw
+21,Bench2-02,White Oak,Panel Saw
+21,Bench2-03,White Oak,Panel Saw
+21,Bench2-04,White Oak,Panel Saw
+1,Cab1-01,TFL,CNC
+1,Cab1-02,TFL,CNC
+1,Cab1-03,TFL,CNC
+1,Cab1-04,TFL,CNC
+1,Cab1-05,TFL,Panel Saw
+1,Cab1-06,TFL,Panel Saw
+2,Cab1-01,TFL,CNC
+2,Cab1-02,TFL,CNC
+2,Cab1-03,TFL,CNC
+2,Cab1-04,TFL,CNC
+2,Cab1-05,TFL,Panel Saw
+2,Cab1-06,TFL,Panel Saw
+3,Cab1-01,TFL,CNC
+3,Cab1-02,TFL,CNC
+3,Cab1-03,TFL,CNC
+3,Cab1-04,TFL,CNC
+3,Cab1-05,TFL,Panel Saw
+3,Cab1-06,TFL,Panel Saw
+4,Cab1-01,TFL,CNC
+4,Cab1-02,TFL,CNC
+4,Cab1-03,TFL,CNC
+4,Cab1-04,TFL,CNC
+4,Cab1-05,TFL,Panel Saw
+4,Cab1-06,TFL,Panel Saw
+5,Cab1-01,TFL,CNC
+5,Cab1-02,TFL,CNC
+5,Cab1-03,TFL,CNC
+5,Cab1-04,TFL,CNC
+5,Cab1-05,TFL,Panel Saw
+5,Cab1-06,TFL,Panel Saw
+6,Cab1-01,TFL,CNC
+6,Cab1-02,TFL,CNC
+6,Cab1-03,TFL,CNC
+6,Cab1-04,TFL,CNC
+6,Cab1-05,TFL,Panel Saw
+6,Cab1-06,TFL,Panel Saw
+7,Cab1-01,TFL,CNC
+7,Cab1-02,TFL,CNC
+7,Cab1-03,TFL,CNC
+7,Cab1-04,TFL,CNC
+7,Cab1-05,TFL,Panel Saw
+7,Cab1-06,TFL,Panel Saw
+8,Cab1-01,TFL,CNC
+8,Cab1-02,TFL,CNC
+8,Cab1-03,TFL,CNC
+8,Cab1-04,TFL,CNC
+8,Cab1-05,TFL,Panel Saw
+8,Cab1-06,TFL,Panel Saw
+1,Cab2-01,TFL,CNC
+1,Cab2-02,TFL,CNC
+1,Cab2-03,TFL,CNC
+1,Cab2-04,TFL,CNC
+1,Cab2-05,TFL,CNC
+1,Cab2-06,TFL,Panel Saw
+1,Cab2-07,TFL,CNC
+1,Cab2-08,TFL,CNC
+2,Cab2-01,TFL,CNC
+2,Cab2-02,TFL,CNC
+2,Cab2-03,TFL,CNC
+2,Cab2-04,TFL,CNC
+2,Cab2-05,TFL,CNC
+2,Cab2-06,TFL,Panel Saw
+2,Cab2-07,TFL,CNC
+2,Cab2-08,TFL,CNC
+3,Cab2-01,TFL,CNC
+3,Cab2-02,TFL,CNC
+3,Cab2-03,TFL,CNC
+3,Cab2-04,TFL,CNC
+3,Cab2-05,TFL,CNC
+3,Cab2-06,TFL,Panel Saw
+3,Cab2-07,TFL,CNC
+3,Cab2-08,TFL,CNC
+4,Cab2-01,TFL,CNC
+4,Cab2-02,TFL,CNC
+4,Cab2-03,TFL,CNC
+4,Cab2-04,TFL,CNC
+4,Cab2-05,TFL,CNC
+4,Cab2-06,TFL,Panel Saw
+4,Cab2-07,TFL,CNC
+4,Cab2-08,TFL,CNC
+5,Cab2-01,TFL,CNC
+5,Cab2-02,TFL,CNC
+5,Cab2-03,TFL,CNC
+5,Cab2-04,TFL,CNC
+5,Cab2-05,TFL,CNC
+5,Cab2-06,TFL,Panel Saw
+5,Cab2-07,TFL,CNC
+5,Cab2-08,TFL,CNC
+6,Cab2-01,TFL,CNC
+6,Cab2-02,TFL,CNC
+6,Cab2-03,TFL,CNC
+6,Cab2-04,TFL,CNC
+6,Cab2-05,TFL,CNC
+6,Cab2-06,TFL,Panel Saw
+6,Cab2-07,TFL,CNC
+6,Cab2-08,TFL,CNC
+7,Cab2-01,TFL,CNC
+7,Cab2-02,TFL,CNC
+7,Cab2-03,TFL,CNC
+7,Cab2-04,TFL,CNC
+7,Cab2-05,TFL,CNC
+7,Cab2-06,TFL,Panel Saw
+7,Cab2-07,TFL,CNC
+7,Cab2-08,TFL,CNC
+8,Cab2-01,TFL,CNC
+8,Cab2-02,TFL,CNC
+8,Cab2-03,TFL,CNC
+8,Cab2-04,TFL,CNC
+8,Cab2-05,TFL,CNC
+8,Cab2-06,TFL,Panel Saw
+8,Cab2-07,TFL,CNC
+8,Cab2-08,TFL,CNC
+9,Cab2-01,TFL,CNC
+9,Cab2-02,TFL,CNC
+9,Cab2-03,TFL,CNC
+9,Cab2-04,TFL,CNC
+9,Cab2-05,TFL,CNC
+9,Cab2-06,TFL,Panel Saw
+9,Cab2-07,TFL,CNC
+9,Cab2-08,TFL,CNC
+10,Cab2-01,TFL,CNC
+10,Cab2-02,TFL,CNC
+10,Cab2-03,TFL,CNC
+10,Cab2-04,TFL,CNC
+10,Cab2-05,TFL,CNC
+10,Cab2-06,TFL,Panel Saw
+10,Cab2-07,TFL,CNC
+10,Cab2-08,TFL,CNC
+11,Cab2-01,TFL,CNC
+11,Cab2-02,TFL,CNC
+11,Cab2-03,TFL,CNC
+11,Cab2-04,TFL,CNC
+11,Cab2-05,TFL,CNC
+11,Cab2-06,TFL,Panel Saw
+11,Cab2-07,TFL,CNC
+11,Cab2-08,TFL,CNC
+12,Cab2-01,TFL,CNC
+12,Cab2-02,TFL,CNC
+12,Cab2-03,TFL,CNC
+12,Cab2-04,TFL,CNC
+12,Cab2-05,TFL,CNC
+12,Cab2-06,TFL,Panel Saw
+12,Cab2-07,TFL,CNC
+12,Cab2-08,TFL,CNC
+13,Cab2-01,TFL,CNC
+13,Cab2-02,TFL,CNC
+13,Cab2-03,TFL,CNC
+13,Cab2-04,TFL,CNC
+13,Cab2-05,TFL,CNC
+13,Cab2-06,TFL,Panel Saw
+13,Cab2-07,TFL,CNC
+13,Cab2-08,TFL,CNC
+14,Cab2-01,TFL,CNC
+14,Cab2-02,TFL,CNC
+14,Cab2-03,TFL,CNC
+14,Cab2-04,TFL,CNC
+14,Cab2-05,TFL,CNC
+14,Cab2-06,TFL,Panel Saw
+14,Cab2-07,TFL,CNC
+14,Cab2-08,TFL,CNC
+15,Cab2-01,TFL,CNC
+15,Cab2-02,TFL,CNC
+15,Cab2-03,TFL,CNC
+15,Cab2-04,TFL,CNC
+15,Cab2-05,TFL,CNC
+15,Cab2-06,TFL,Panel Saw
+15,Cab2-07,TFL,CNC
+15,Cab2-08,TFL,CNC
+16,Cab2-01,TFL,CNC
+16,Cab2-02,TFL,CNC
+16,Cab2-03,TFL,CNC
+16,Cab2-04,TFL,CNC
+16,Cab2-05,TFL,CNC
+16,Cab2-06,TFL,Panel Saw
+16,Cab2-07,TFL,CNC
+16,Cab2-08,TFL,CNC
+17,Cab2-01,TFL,CNC
+17,Cab2-02,TFL,CNC
+17,Cab2-03,TFL,CNC
+17,Cab2-04,TFL,CNC
+17,Cab2-05,TFL,CNC
+17,Cab2-06,TFL,Panel Saw
+17,Cab2-07,TFL,CNC
+17,Cab2-08,TFL,CNC
+18,Cab2-01,TFL,CNC
+18,Cab2-02,TFL,CNC
+18,Cab2-03,TFL,CNC
+18,Cab2-04,TFL,CNC
+18,Cab2-05,TFL,CNC
+18,Cab2-06,TFL,Panel Saw
+18,Cab2-07,TFL,CNC
+18,Cab2-08,TFL,CNC
+19,Cab2-01,TFL,CNC
+19,Cab2-02,TFL,CNC
+19,Cab2-03,TFL,CNC
+19,Cab2-04,TFL,CNC
+19,Cab2-05,TFL,CNC
+19,Cab2-06,TFL,Panel Saw
+19,Cab2-07,TFL,CNC
+19,Cab2-08,TFL,CNC
+20,Cab2-01,TFL,CNC
+20,Cab2-02,TFL,CNC
+20,Cab2-03,TFL,CNC
+20,Cab2-04,TFL,CNC
+20,Cab2-05,TFL,CNC
+20,Cab2-06,TFL,Panel Saw
+20,Cab2-07,TFL,CNC
+20,Cab2-08,TFL,CNC
+21,Cab2-01,TFL,CNC
+21,Cab2-02,TFL,CNC
+21,Cab2-03,TFL,CNC
+21,Cab2-04,TFL,CNC
+21,Cab2-05,TFL,CNC
+21,Cab2-06,TFL,Panel Saw
+21,Cab2-07,TFL,CNC
+21,Cab2-08,TFL,CNC
+22,Cab2-01,TFL,CNC
+22,Cab2-02,TFL,CNC
+22,Cab2-03,TFL,CNC
+22,Cab2-04,TFL,CNC
+22,Cab2-05,TFL,CNC
+22,Cab2-06,TFL,Panel Saw
+22,Cab2-07,TFL,CNC
+22,Cab2-08,TFL,CNC
+23,Cab2-01,TFL,CNC
+23,Cab2-02,TFL,CNC
+23,Cab2-03,TFL,CNC
+23,Cab2-04,TFL,CNC
+23,Cab2-05,TFL,CNC
+23,Cab2-06,TFL,Panel Saw
+23,Cab2-07,TFL,CNC
+23,Cab2-08,TFL,CNC
+24,Cab2-01,TFL,CNC
+24,Cab2-02,TFL,CNC
+24,Cab2-03,TFL,CNC
+24,Cab2-04,TFL,CNC
+24,Cab2-05,TFL,CNC
+24,Cab2-06,TFL,Panel Saw
+24,Cab2-07,TFL,CNC
+24,Cab2-08,TFL,CNC
+25,Cab2-01,TFL,CNC
+25,Cab2-02,TFL,CNC
+25,Cab2-03,TFL,CNC
+25,Cab2-04,TFL,CNC
+25,Cab2-05,TFL,CNC
+25,Cab2-06,TFL,Panel Saw
+25,Cab2-07,TFL,CNC
+25,Cab2-08,TFL,CNC
+26,Cab2-01,TFL,CNC
+26,Cab2-02,TFL,CNC
+26,Cab2-03,TFL,CNC
+26,Cab2-04,TFL,CNC
+26,Cab2-05,TFL,CNC
+26,Cab2-06,TFL,Panel Saw
+26,Cab2-07,TFL,CNC
+26,Cab2-08,TFL,CNC
+27,Cab2-01,TFL,CNC
+27,Cab2-02,TFL,CNC
+27,Cab2-03,TFL,CNC
+27,Cab2-04,TFL,CNC
+27,Cab2-05,TFL,CNC
+27,Cab2-06,TFL,Panel Saw
+27,Cab2-07,TFL,CNC
+27,Cab2-08,TFL,CNC
+28,Cab2-01,TFL,CNC
+28,Cab2-02,TFL,CNC
+28,Cab2-03,TFL,CNC
+28,Cab2-04,TFL,CNC
+28,Cab2-05,TFL,CNC
+28,Cab2-06,TFL,Panel Saw
+28,Cab2-07,TFL,CNC
+28,Cab2-08,TFL,CNC
+29,Cab2-01,TFL,CNC
+29,Cab2-02,TFL,CNC
+29,Cab2-03,TFL,CNC
+29,Cab2-04,TFL,CNC
+29,Cab2-05,TFL,CNC
+29,Cab2-06,TFL,Panel Saw
+29,Cab2-07,TFL,CNC
+29,Cab2-08,TFL,CNC
+30,Cab2-01,TFL,CNC
+30,Cab2-02,TFL,CNC
+30,Cab2-03,TFL,CNC
+30,Cab2-04,TFL,CNC
+30,Cab2-05,TFL,CNC
+30,Cab2-06,TFL,Panel Saw
+30,Cab2-07,TFL,CNC
+30,Cab2-08,TFL,CNC
+31,Cab2-01,TFL,CNC
+31,Cab2-02,TFL,CNC
+31,Cab2-03,TFL,CNC
+31,Cab2-04,TFL,CNC
+31,Cab2-05,TFL,CNC
+31,Cab2-06,TFL,Panel Saw
+31,Cab2-07,TFL,CNC
+31,Cab2-08,TFL,CNC
+32,Cab2-01,TFL,CNC
+32,Cab2-02,TFL,CNC
+32,Cab2-03,TFL,CNC
+32,Cab2-04,TFL,CNC
+32,Cab2-05,TFL,CNC
+32,Cab2-06,TFL,Panel Saw
+32,Cab2-07,TFL,CNC
+32,Cab2-08,TFL,CNC
+1,Cab3-01,TFL,CNC
+1,Cab3-02,TFL,CNC
+1,Cab3-03,TFL,CNC
+1,Cab3-04,TFL,CNC
+1,Cab3-05,TFL,CNC
+1,Cab3-06,TFL,Panel Saw
+1,Cab3-07,TFL,CNC
+2,Cab3-01,TFL,CNC
+2,Cab3-02,TFL,CNC
+2,Cab3-03,TFL,CNC
+2,Cab3-04,TFL,CNC
+2,Cab3-05,TFL,CNC
+2,Cab3-06,TFL,Panel Saw
+2,Cab3-07,TFL,CNC
+3,Cab3-01,TFL,CNC
+3,Cab3-02,TFL,CNC
+3,Cab3-03,TFL,CNC
+3,Cab3-04,TFL,CNC
+3,Cab3-05,TFL,CNC
+3,Cab3-06,TFL,Panel Saw
+3,Cab3-07,TFL,CNC
+4,Cab3-01,TFL,CNC
+4,Cab3-02,TFL,CNC
+4,Cab3-03,TFL,CNC
+4,Cab3-04,TFL,CNC
+4,Cab3-05,TFL,CNC
+4,Cab3-06,TFL,Panel Saw
+4,Cab3-07,TFL,CNC
+5,Cab3-01,TFL,CNC
+5,Cab3-02,TFL,CNC
+5,Cab3-03,TFL,CNC
+5,Cab3-04,TFL,CNC
+5,Cab3-05,TFL,CNC
+5,Cab3-06,TFL,Panel Saw
+5,Cab3-07,TFL,CNC
+6,Cab3-01,TFL,CNC
+6,Cab3-02,TFL,CNC
+6,Cab3-03,TFL,CNC
+6,Cab3-04,TFL,CNC
+6,Cab3-05,TFL,CNC
+6,Cab3-06,TFL,Panel Saw
+6,Cab3-07,TFL,CNC
+7,Cab3-01,TFL,CNC
+7,Cab3-02,TFL,CNC
+7,Cab3-03,TFL,CNC
+7,Cab3-04,TFL,CNC
+7,Cab3-05,TFL,CNC
+7,Cab3-06,TFL,Panel Saw
+7,Cab3-07,TFL,CNC
+8,Cab3-01,TFL,CNC
+8,Cab3-02,TFL,CNC
+8,Cab3-03,TFL,CNC
+8,Cab3-04,TFL,CNC
+8,Cab3-05,TFL,CNC
+8,Cab3-06,TFL,Panel Saw
+8,Cab3-07,TFL,CNC
+9,Cab3-01,TFL,CNC
+9,Cab3-02,TFL,CNC
+9,Cab3-03,TFL,CNC
+9,Cab3-04,TFL,CNC
+9,Cab3-05,TFL,CNC
+9,Cab3-06,TFL,Panel Saw
+9,Cab3-07,TFL,CNC
+10,Cab3-01,TFL,CNC
+10,Cab3-02,TFL,CNC
+10,Cab3-03,TFL,CNC
+10,Cab3-04,TFL,CNC
+10,Cab3-05,TFL,CNC
+10,Cab3-06,TFL,Panel Saw
+10,Cab3-07,TFL,CNC
+11,Cab3-01,TFL,CNC
+11,Cab3-02,TFL,CNC
+11,Cab3-03,TFL,CNC
+11,Cab3-04,TFL,CNC
+11,Cab3-05,TFL,CNC
+11,Cab3-06,TFL,Panel Saw
+11,Cab3-07,TFL,CNC
+12,Cab3-01,TFL,CNC
+12,Cab3-02,TFL,CNC
+12,Cab3-03,TFL,CNC
+12,Cab3-04,TFL,CNC
+12,Cab3-05,TFL,CNC
+12,Cab3-06,TFL,Panel Saw
+12,Cab3-07,TFL,CNC
+13,Cab3-01,TFL,CNC
+13,Cab3-02,TFL,CNC
+13,Cab3-03,TFL,CNC
+13,Cab3-04,TFL,CNC
+13,Cab3-05,TFL,CNC
+13,Cab3-06,TFL,Panel Saw
+13,Cab3-07,TFL,CNC
+14,Cab3-01,TFL,CNC
+14,Cab3-02,TFL,CNC
+14,Cab3-03,TFL,CNC
+14,Cab3-04,TFL,CNC
+14,Cab3-05,TFL,CNC
+14,Cab3-06,TFL,Panel Saw
+14,Cab3-07,TFL,CNC
+15,Cab3-01,TFL,CNC
+15,Cab3-02,TFL,CNC
+15,Cab3-03,TFL,CNC
+15,Cab3-04,TFL,CNC
+15,Cab3-05,TFL,CNC
+15,Cab3-06,TFL,Panel Saw
+15,Cab3-07,TFL,CNC
+16,Cab3-01,TFL,CNC
+16,Cab3-02,TFL,CNC
+16,Cab3-03,TFL,CNC
+16,Cab3-04,TFL,CNC
+16,Cab3-05,TFL,CNC
+16,Cab3-06,TFL,Panel Saw
+16,Cab3-07,TFL,CNC
+17,Cab3-01,TFL,CNC
+17,Cab3-02,TFL,CNC
+17,Cab3-03,TFL,CNC
+17,Cab3-04,TFL,CNC
+17,Cab3-05,TFL,CNC
+17,Cab3-06,TFL,Panel Saw
+17,Cab3-07,TFL,CNC
+18,Cab3-01,TFL,CNC
+18,Cab3-02,TFL,CNC
+18,Cab3-03,TFL,CNC
+18,Cab3-04,TFL,CNC
+18,Cab3-05,TFL,CNC
+18,Cab3-06,TFL,Panel Saw
+18,Cab3-07,TFL,CNC
+19,Cab3-01,TFL,CNC
+19,Cab3-02,TFL,CNC
+19,Cab3-03,TFL,CNC
+19,Cab3-04,TFL,CNC
+19,Cab3-05,TFL,CNC
+19,Cab3-06,TFL,Panel Saw
+19,Cab3-07,TFL,CNC
+20,Cab3-01,TFL,CNC
+20,Cab3-02,TFL,CNC
+20,Cab3-03,TFL,CNC
+20,Cab3-04,TFL,CNC
+20,Cab3-05,TFL,CNC
+20,Cab3-06,TFL,Panel Saw
+20,Cab3-07,TFL,CNC
+21,Cab3-01,TFL,CNC
+21,Cab3-02,TFL,CNC
+21,Cab3-03,TFL,CNC
+21,Cab3-04,TFL,CNC
+21,Cab3-05,TFL,CNC
+21,Cab3-06,TFL,Panel Saw
+21,Cab3-07,TFL,CNC
+22,Cab3-01,TFL,CNC
+22,Cab3-02,TFL,CNC
+22,Cab3-03,TFL,CNC
+22,Cab3-04,TFL,CNC
+22,Cab3-05,TFL,CNC
+22,Cab3-06,TFL,Panel Saw
+22,Cab3-07,TFL,CNC
+23,Cab3-01,TFL,CNC
+23,Cab3-02,TFL,CNC
+23,Cab3-03,TFL,CNC
+23,Cab3-04,TFL,CNC
+23,Cab3-05,TFL,CNC
+23,Cab3-06,TFL,Panel Saw
+23,Cab3-07,TFL,CNC
+24,Cab3-01,TFL,CNC
+24,Cab3-02,TFL,CNC
+24,Cab3-03,TFL,CNC
+24,Cab3-04,TFL,CNC
+24,Cab3-05,TFL,CNC
+24,Cab3-06,TFL,Panel Saw
+24,Cab3-07,TFL,CNC
+25,Cab3-01,TFL,CNC
+25,Cab3-02,TFL,CNC
+25,Cab3-03,TFL,CNC
+25,Cab3-04,TFL,CNC
+25,Cab3-05,TFL,CNC
+25,Cab3-06,TFL,Panel Saw
+25,Cab3-07,TFL,CNC
+26,Cab3-01,TFL,CNC
+26,Cab3-02,TFL,CNC
+26,Cab3-03,TFL,CNC
+26,Cab3-04,TFL,CNC
+26,Cab3-05,TFL,CNC
+26,Cab3-06,TFL,Panel Saw
+26,Cab3-07,TFL,CNC
+27,Cab3-01,TFL,CNC
+27,Cab3-02,TFL,CNC
+27,Cab3-03,TFL,CNC
+27,Cab3-04,TFL,CNC
+27,Cab3-05,TFL,CNC
+27,Cab3-06,TFL,Panel Saw
+27,Cab3-07,TFL,CNC
+28,Cab3-01,TFL,CNC
+28,Cab3-02,TFL,CNC
+28,Cab3-03,TFL,CNC
+28,Cab3-04,TFL,CNC
+28,Cab3-05,TFL,CNC
+28,Cab3-06,TFL,Panel Saw
+28,Cab3-07,TFL,CNC
+1,Counter1-01,Stainless Steel,Metal Band Saw
+1,Counter1-02,Stainless Steel,Metal Laser
+1,Counter1-03,Stainless Steel,Metal Laser
+1,Counter1-04,Stainless Steel,Metal Laser
+1,Counter1-05,Stainless Steel,Metal Laser
+2,Counter1-01,Stainless Steel,Metal Band Saw
+2,Counter1-02,Stainless Steel,Metal Laser
+2,Counter1-03,Stainless Steel,Metal Laser
+2,Counter1-04,Stainless Steel,Metal Laser
+2,Counter1-05,Stainless Steel,Metal Laser
+3,Counter1-01,Stainless Steel,Metal Band Saw
+3,Counter1-02,Stainless Steel,Metal Laser
+3,Counter1-03,Stainless Steel,Metal Laser
+3,Counter1-04,Stainless Steel,Metal Laser
+3,Counter1-05,Stainless Steel,Metal Laser
+4,Counter1-01,Stainless Steel,Metal Band Saw
+4,Counter1-02,Stainless Steel,Metal Laser
+4,Counter1-03,Stainless Steel,Metal Laser
+4,Counter1-04,Stainless Steel,Metal Laser
+4,Counter1-05,Stainless Steel,Metal Laser
+5,Counter1-01,Stainless Steel,Metal Band Saw
+5,Counter1-02,Stainless Steel,Metal Laser
+5,Counter1-03,Stainless Steel,Metal Laser
+5,Counter1-04,Stainless Steel,Metal Laser
+5,Counter1-05,Stainless Steel,Metal Laser
+6,Counter1-01,Stainless Steel,Metal Band Saw
+6,Counter1-02,Stainless Steel,Metal Laser
+6,Counter1-03,Stainless Steel,Metal Laser
+6,Counter1-04,Stainless Steel,Metal Laser
+6,Counter1-05,Stainless Steel,Metal Laser
+7,Counter1-01,Stainless Steel,Metal Band Saw
+7,Counter1-02,Stainless Steel,Metal Laser
+7,Counter1-03,Stainless Steel,Metal Laser
+7,Counter1-04,Stainless Steel,Metal Laser
+7,Counter1-05,Stainless Steel,Metal Laser
+8,Counter1-01,Stainless Steel,Metal Band Saw
+8,Counter1-02,Stainless Steel,Metal Laser
+8,Counter1-03,Stainless Steel,Metal Laser
+8,Counter1-04,Stainless Steel,Metal Laser
+8,Counter1-05,Stainless Steel,Metal Laser
+9,Counter1-01,Stainless Steel,Metal Band Saw
+9,Counter1-02,Stainless Steel,Metal Laser
+9,Counter1-03,Stainless Steel,Metal Laser
+9,Counter1-04,Stainless Steel,Metal Laser
+9,Counter1-05,Stainless Steel,Metal Laser
+10,Counter1-01,Stainless Steel,Metal Band Saw
+10,Counter1-02,Stainless Steel,Metal Laser
+10,Counter1-03,Stainless Steel,Metal Laser
+10,Counter1-04,Stainless Steel,Metal Laser
+10,Counter1-05,Stainless Steel,Metal Laser
+11,Counter1-01,Stainless Steel,Metal Band Saw
+11,Counter1-02,Stainless Steel,Metal Laser
+11,Counter1-03,Stainless Steel,Metal Laser
+11,Counter1-04,Stainless Steel,Metal Laser
+11,Counter1-05,Stainless Steel,Metal Laser
+12,Counter1-01,Stainless Steel,Metal Band Saw
+12,Counter1-02,Stainless Steel,Metal Laser
+12,Counter1-03,Stainless Steel,Metal Laser
+12,Counter1-04,Stainless Steel,Metal Laser
+12,Counter1-05,Stainless Steel,Metal Laser
+13,Counter1-01,Stainless Steel,Metal Band Saw
+13,Counter1-02,Stainless Steel,Metal Laser
+13,Counter1-03,Stainless Steel,Metal Laser
+13,Counter1-04,Stainless Steel,Metal Laser
+13,Counter1-05,Stainless Steel,Metal Laser
+14,Counter1-01,Stainless Steel,Metal Band Saw
+14,Counter1-02,Stainless Steel,Metal Laser
+14,Counter1-03,Stainless Steel,Metal Laser
+14,Counter1-04,Stainless Steel,Metal Laser
+14,Counter1-05,Stainless Steel,Metal Laser
+15,Counter1-01,Stainless Steel,Metal Band Saw
+15,Counter1-02,Stainless Steel,Metal Laser
+15,Counter1-03,Stainless Steel,Metal Laser
+15,Counter1-04,Stainless Steel,Metal Laser
+15,Counter1-05,Stainless Steel,Metal Laser
+,Shelf1-1,White Oak,Panel Saw
+,Shelf1-2,White Oak,Panel Saw
+,Shelf1-3,White Oak,Panel Saw
+,Shelf1-4,White Oak,Panel Saw
+,Shelf1-5,White Oak,Panel Saw
+,Shelf1-6,White Oak,Panel Saw
+,Shelf1-7,White Oak,Panel Saw
+,Shelf1-8,White Oak,Panel Saw
+,Shelf1-9,White Oak,Panel Saw
+,Shelf1-10,White Oak,Panel Saw
+,Shelf1-11,White Oak,Panel Saw
+,Shelf1-12,White Oak,Panel Saw
+,Shelf1-13,White Oak,Panel Saw
+,Shelf1-14,White Oak,Panel Saw
+,Shelf1-15,White Oak,Panel Saw
+,Shelf1-16,White Oak,Panel Saw
+,Shelf1-17,White Oak,Panel Saw
+,Shelf1-18,White Oak,Panel Saw
+,Shelf1-19,White Oak,Panel Saw
+,Shelf1-20,White Oak,Panel Saw
+,Shelf1-21,White Oak,Panel Saw
+,Shelf1-22,White Oak,Panel Saw
+,Shelf1-23,White Oak,Panel Saw
+,Shelf1-24,White Oak,Panel Saw
+,Shelf1-25,White Oak,Panel Saw
+,Shelf1-26,White Oak,Panel Saw
+,Shelf1-27,White Oak,Panel Saw
+,Shelf1-28,White Oak,Panel Saw
+,Shelf1-29,White Oak,Panel Saw
+,Shelf1-30,White Oak,Panel Saw
+,Shelf1-31,White Oak,Panel Saw
+,Shelf1-32,White Oak,Panel Saw
+,Shelf1-33,White Oak,Panel Saw
+,Shelf1-34,White Oak,Panel Saw
+,Shelf1-35,White Oak,Panel Saw
+,Shelf1-36,White Oak,Panel Saw
+,Shelf1-37,White Oak,Panel Saw
+,Shelf1-38,White Oak,Panel Saw
+,Shelf1-39,White Oak,Panel Saw
+,Shelf1-40,White Oak,Panel Saw
+,Shelf1-41,White Oak,Panel Saw
+,Shelf1-42,White Oak,Panel Saw
+,Shelf1-43,White Oak,Panel Saw
+,Shelf1-44,White Oak,Panel Saw
+,Shelf1-45,White Oak,Panel Saw
+,Shelf1-46,White Oak,Panel Saw
+,Shelf1-47,White Oak,Panel Saw
+,Shelf1-48,White Oak,Panel Saw
+,Shelf1-49,White Oak,Panel Saw
+,Shelf1-50,White Oak,Panel Saw
+,Shelf1-51,White Oak,Panel Saw
+,Shelf1-52,White Oak,Panel Saw
+,Shelf1-53,White Oak,Panel Saw
+,Shelf1-54,White Oak,Panel Saw
+,Shelf1-55,White Oak,Panel Saw
+,Shelf1-56,White Oak,Panel Saw
+,Shelf1-57,White Oak,Panel Saw
+,Shelf1-58,White Oak,Panel Saw
+,Shelf1-59,White Oak,Panel Saw
+,Shelf1-60,White Oak,Panel Saw
+,Shelf1-61,White Oak,Panel Saw
+,Shelf1-62,White Oak,Panel Saw
+,Shelf1-63,White Oak,Panel Saw
+,Shelf1-64,White Oak,Panel Saw
+,Shelf1-65,White Oak,Panel Saw
+,Shelf1-66,White Oak,Panel Saw
+,Shelf1-67,White Oak,Panel Saw
+,Shelf1-68,White Oak,Panel Saw
+,Shelf1-69,White Oak,Panel Saw
+,Shelf1-70,White Oak,Panel Saw
+,Shelf1-71,White Oak,Panel Saw
+,Shelf1-72,White Oak,Panel Saw
+,Shelf1-73,White Oak,Panel Saw
+,Shelf1-74,White Oak,Panel Saw
+,Shelf1-75,White Oak,Panel Saw
+,Shelf1-76,White Oak,Panel Saw
+,Shelf1-77,White Oak,Panel Saw
+,Shelf1-78,White Oak,Panel Saw
+,Shelf1-79,White Oak,Panel Saw
+,Shelf1-80,White Oak,Panel Saw
+,Shelf1-81,White Oak,Panel Saw
+,Shelf1-82,White Oak,Panel Saw
+,Shelf1-83,White Oak,Panel Saw
+,Shelf1-84,White Oak,Panel Saw
+,Shelf1-85,White Oak,Panel Saw
+,Shelf1-86,White Oak,Panel Saw
+,Shelf1-87,White Oak,Panel Saw
+,Shelf1-88,White Oak,Panel Saw
+,Shelf1-89,White Oak,Panel Saw
+,Shelf1-90,White Oak,Panel Saw
+,Shelf1-91,White Oak,Panel Saw
+,Shelf1-92,White Oak,Panel Saw
+,Shelf1-93,White Oak,Panel Saw
+,Shelf1-94,White Oak,Panel Saw
+,Shelf1-95,White Oak,Panel Saw
+,Shelf1-96,White Oak,Panel Saw
+1,Shelf2-01,MDF,CNC
+1,Shelf2-02,MDF,CNC
+1,Shelf2-03,MDF,CNC
+1,Shelf2-04,MDF,CNC
+1,Shelf2-05,MDF,CNC
+1,Shelf2-06,MDF,Panel Saw
+2,Shelf2-01,MDF,CNC
+2,Shelf2-02,MDF,CNC
+2,Shelf2-03,MDF,CNC
+2,Shelf2-04,MDF,CNC
+2,Shelf2-05,MDF,CNC
+2,Shelf2-06,MDF,Panel Saw
+3,Shelf2-01,MDF,CNC
+3,Shelf2-02,MDF,CNC
+3,Shelf2-03,MDF,CNC
+3,Shelf2-04,MDF,CNC
+3,Shelf2-05,MDF,CNC
+3,Shelf2-06,MDF,Panel Saw
+4,Shelf2-01,MDF,CNC
+4,Shelf2-02,MDF,CNC
+4,Shelf2-03,MDF,CNC
+4,Shelf2-04,MDF,CNC
+4,Shelf2-05,MDF,CNC
+4,Shelf2-06,MDF,Panel Saw
+5,Shelf2-01,MDF,CNC
+5,Shelf2-02,MDF,CNC
+5,Shelf2-03,MDF,CNC
+5,Shelf2-04,MDF,CNC
+5,Shelf2-05,MDF,CNC
+5,Shelf2-06,MDF,Panel Saw
+6,Shelf2-01,MDF,CNC
+6,Shelf2-02,MDF,CNC
+6,Shelf2-03,MDF,CNC
+6,Shelf2-04,MDF,CNC
+6,Shelf2-05,MDF,CNC
+6,Shelf2-06,MDF,Panel Saw
+7,Shelf2-01,MDF,CNC
+7,Shelf2-02,MDF,CNC
+7,Shelf2-03,MDF,CNC
+7,Shelf2-04,MDF,CNC
+7,Shelf2-05,MDF,CNC
+7,Shelf2-06,MDF,Panel Saw
+8,Shelf2-01,MDF,CNC
+8,Shelf2-02,MDF,CNC
+8,Shelf2-03,MDF,CNC
+8,Shelf2-04,MDF,CNC
+8,Shelf2-05,MDF,CNC
+8,Shelf2-06,MDF,Panel Saw
+9,Shelf2-01,MDF,CNC
+9,Shelf2-02,MDF,CNC
+9,Shelf2-03,MDF,CNC
+9,Shelf2-04,MDF,CNC
+9,Shelf2-05,MDF,CNC
+9,Shelf2-06,MDF,Panel Saw
+10,Shelf2-01,MDF,CNC
+10,Shelf2-02,MDF,CNC
+10,Shelf2-03,MDF,CNC
+10,Shelf2-04,MDF,CNC
+10,Shelf2-05,MDF,CNC
+10,Shelf2-06,MDF,Panel Saw
+11,Shelf2-01,MDF,CNC
+11,Shelf2-02,MDF,CNC
+11,Shelf2-03,MDF,CNC
+11,Shelf2-04,MDF,CNC
+11,Shelf2-05,MDF,CNC
+11,Shelf2-06,MDF,Panel Saw
+12,Shelf2-01,MDF,CNC
+12,Shelf2-02,MDF,CNC
+12,Shelf2-03,MDF,CNC
+12,Shelf2-04,MDF,CNC
+12,Shelf2-05,MDF,CNC
+12,Shelf2-06,MDF,Panel Saw
+13,Shelf2-01,MDF,CNC
+13,Shelf2-02,MDF,CNC
+13,Shelf2-03,MDF,CNC
+13,Shelf2-04,MDF,CNC
+13,Shelf2-05,MDF,CNC
+13,Shelf2-06,MDF,Panel Saw
+14,Shelf2-01,MDF,CNC
+14,Shelf2-02,MDF,CNC
+14,Shelf2-03,MDF,CNC
+14,Shelf2-04,MDF,CNC
+14,Shelf2-05,MDF,CNC
+14,Shelf2-06,MDF,Panel Saw
+1,Station1-01,Hot Rolled Steel,Metal Laser
+2,Station1-01,Hot Rolled Steel,Metal Laser
+3,Station1-01,Hot Rolled Steel,Metal Laser
+4,Station1-01,Hot Rolled Steel,Metal Laser
+5,Station1-01,Hot Rolled Steel,Metal Laser
+6,Station1-01,Hot Rolled Steel,Metal Laser
+7,Station1-01,Hot Rolled Steel,Metal Laser
+8,Station1-01,Hot Rolled Steel,Metal Laser
+9,Station1-01,Hot Rolled Steel,Metal Laser
+10,Station1-01,Hot Rolled Steel,Metal Laser
+11,Station1-01,Hot Rolled Steel,Metal Laser
+12,Station1-01,Hot Rolled Steel,Metal Laser
+13,Station1-01,Hot Rolled Steel,Metal Laser
+14,Station1-01,Hot Rolled Steel,Metal Laser
+15,Station1-01,Hot Rolled Steel,Metal Laser
+16,Station1-01,Hot Rolled Steel,Metal Laser
+17,Station1-01,Hot Rolled Steel,Metal Laser
+18,Station1-01,Hot Rolled Steel,Metal Laser
+1,Station1-02,Caesarstone,Waterjet
+2,Station1-02,Caesarstone,Waterjet
+3,Station1-02,Caesarstone,Waterjet
+4,Station1-02,Caesarstone,Waterjet
+5,Station1-02,Caesarstone,Waterjet
+6,Station1-02,Caesarstone,Waterjet
+7,Station1-02,Caesarstone,Waterjet
+8,Station1-02,Caesarstone,Waterjet
+9,Station1-02,Caesarstone,Waterjet
+10,Station1-02,Caesarstone,Waterjet
+11,Station1-02,Caesarstone,Waterjet
+12,Station1-02,Caesarstone,Waterjet
+13,Station1-02,Caesarstone,Waterjet
+14,Station1-02,Caesarstone,Waterjet
+15,Station1-02,Caesarstone,Waterjet
+16,Station1-02,Caesarstone,Waterjet
+17,Station1-02,Caesarstone,Waterjet
+18,Station1-02,Caesarstone,Waterjet
+1,Table1-01,White Oak,Panel Saw
+2,Table1-01,White Oak,Panel Saw
+3,Table1-01,White Oak,Panel Saw
+4,Table1-01,White Oak,Panel Saw
+5,Table1-01,White Oak,Panel Saw
+6,Table1-01,White Oak,Panel Saw
+7,Table1-01,White Oak,Panel Saw
+8,Table1-01,White Oak,Panel Saw
+9,Table1-01,White Oak,Panel Saw
+10,Table1-01,White Oak,Panel Saw
+11,Table1-01,White Oak,Panel Saw
+12,Table1-01,White Oak,Panel Saw
+13,Table1-01,White Oak,Panel Saw
+14,Table1-01,White Oak,Panel Saw
+15,Table1-01,White Oak,Panel Saw
+16,Table1-01,White Oak,Panel Saw
+17,Table1-01,White Oak,Panel Saw
+18,Table1-01,White Oak,Panel Saw
+19,Table1-01,White Oak,Panel Saw
+20,Table1-01,White Oak,Panel Saw
+21,Table1-01,White Oak,Panel Saw
+22,Table1-01,White Oak,Panel Saw
+23,Table1-01,White Oak,Panel Saw
+24,Table1-01,White Oak,Panel Saw
+25,Table1-01,White Oak,Panel Saw
+26,Table1-01,White Oak,Panel Saw
+27,Table1-01,White Oak,Panel Saw
+28,Table1-01,White Oak,Panel Saw
+1,Table1-02,Hot Rolled Steel,Metal Band Saw
+2,Table1-02,Hot Rolled Steel,Metal Band Saw
+3,Table1-02,Hot Rolled Steel,Metal Band Saw
+4,Table1-02,Hot Rolled Steel,Metal Band Saw
+5,Table1-02,Hot Rolled Steel,Metal Band Saw
+6,Table1-02,Hot Rolled Steel,Metal Band Saw
+7,Table1-02,Hot Rolled Steel,Metal Band Saw
+8,Table1-02,Hot Rolled Steel,Metal Band Saw
+9,Table1-02,Hot Rolled Steel,Metal Band Saw
+10,Table1-02,Hot Rolled Steel,Metal Band Saw
+11,Table1-02,Hot Rolled Steel,Metal Band Saw
+12,Table1-02,Hot Rolled Steel,Metal Band Saw
+13,Table1-02,Hot Rolled Steel,Metal Band Saw
+14,Table1-02,Hot Rolled Steel,Metal Band Saw
+15,Table1-02,Hot Rolled Steel,Metal Band Saw
+16,Table1-02,Hot Rolled Steel,Metal Band Saw
+17,Table1-02,Hot Rolled Steel,Metal Band Saw
+18,Table1-02,Hot Rolled Steel,Metal Band Saw
+19,Table1-02,Hot Rolled Steel,Metal Band Saw
+20,Table1-02,Hot Rolled Steel,Metal Band Saw
+21,Table1-02,Hot Rolled Steel,Metal Band Saw
+22,Table1-02,Hot Rolled Steel,Metal Band Saw
+23,Table1-02,Hot Rolled Steel,Metal Band Saw
+24,Table1-02,Hot Rolled Steel,Metal Band Saw
+25,Table1-02,Hot Rolled Steel,Metal Band Saw
+26,Table1-02,Hot Rolled Steel,Metal Band Saw
+27,Table1-02,Hot Rolled Steel,Metal Band Saw
+28,Table1-02,Hot Rolled Steel,Metal Band Saw
