@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 
-# image directories
+# large file directories
 Meshes/
 SW_Models/
+Pytorch_Model_Save/
