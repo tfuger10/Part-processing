@@ -6,10 +6,9 @@ Tim Fuger
 
 ## Project Overview
 
-Our client Fab Inc. is a custom architecture millwork and metalwork manufacturer. They would like to boost the automation and efficiency in the engineering department by automating the process of assigning the first step in the manufacturing process to a part. This project used a dataset of 3D mesh models of 1000 different parts supplied by the company to train a Pytorch nueral network to predict manufacturing process assignment for parts. Our final model achieves a high precision and F1-score in the most expensive class (CNC) and can be used immediately by the company to expedite and reduce error in the assignment process.
+Our client Fab Inc. is a custom architecture millwork and metalwork manufacturer. They would like to boost the automation and efficiency in the engineering department by automating the process of assigning the first step in the manufacturing process to a part. This project used a dataset of 3D mesh models of 995 different parts supplied by the company to train a Pytorch nueral network to predict manufacturing process assignment for parts. Our final model achieves a high precision and F1-score in the most expensive class (CNC) and can be used immediately by the company to expedite and reduce error in the assignment process.
 
-
-![Sample-of-Meshes](Visualizations/Sample-of-Meshes.png)
+<img src="Visualizations/Bench2.jpg" width="500" height="500">
 
 
 ## Business Understanding
@@ -19,22 +18,22 @@ Our client Fab Inc. is a custom architecture millwork and metalwork manufacturer
 > Our stakeholder is looking to **reduce engineering time and error** to **assign the manufacturing process** for a custom fabricated **part**.
 
 
-Our client Fab Inc. is a custom architecture millwork and metalwork manufacturer. They have already worked to automate large portions of the shop/production floor by having robots and more sophisticated machinery and software work in tandem with shop employees. Since upgrading production equipment and processes, they have seen the bottleneck in their facility start to shift from the production departments to their engineering and design departments. With the increased efficiency in production, the shop floor is always ahead of engineering and design, which means that the shop is consistently waiting on digital files and shop documentation in order to continue working on projects. They would like to boost the automation in the engineering and design departments.
+Our client, Fab Inc. has already worked to automate large portions of the shop/production floor by having robots and more sophisticated machinery and software work in tandem with shop employees. Since upgrading production equipment and processes, they have seen the bottleneck (backup of work) in their facility start to shift from the production departments to their engineering department. With the increased efficiency in production, the shop floor is always ahead of engineering, which means that the shop is consistently waiting on digital files and shop documentation in order to continue working on projects. Our client would like to boost the automation and reduce error in the engineering department.
 
-Our client's long term goal is to create a system which can automatically identify and program parts for various assemblies. This in turn will reduce the amount of engineering time required for each project, and will free the team up to focus on other responsibilities. For this project is the catalyst of this long term goal. It will start by classifying the first step in the manufacturing process for each of the parts.
+To do so, the company has identified that the assignment of manufacturing processes to parts is a task that incurs unnecessary engineering time and overall error. They would like to work with us to analyze and solve this problem.
 
-The company has 5 main types of cutting processes that they work with that they would like to have classified:
+### Parent Objective
 
-- CNC
-- Panel Saw
-- Metal Laser
-- Metal Band Saw
-- Waterjet
+> To develop a **Convolutional Neural Network** that can properly **identify the required processes** for each **3D modeled part.**
+
+### Long Term Goal
+
+This project is the first in a series of planned projects working towards a long term goal of creating a system which can automatically identify and program parts for various assemblies. This in turn will reduce the amount of engineering time required for each project, and will free the team up to focus on other responsibilities. This project is the catalyst and will classify the first step in the manufacturing process for each of the parts.
 
 
 ### Defining Metrics
 
-The metric that is most important in our analysis is precision. We need to be really precise in our predictions, as an imprecise prediction means a material gets sent to the wrong workcell. This, at the least, means lost time for sending the material back to the previous station, but, at the worst, it could mean lost time and lost material if someone cuts stock they should not be cutting. And for the most expensive process, we will want to have that process be as precise. That process will incur the highest time and material cost so we do not want anything being sent to that process that isnt the correct material or part, as it would cost the highest in lost time and material.
+The metric that is most important in our analysis is precision. We need to be really precise in our predictions, as an imprecise prediction means a material gets sent to the wrong workcell. This, at the least, means lost time for sending the material back to the previous station, but, at the worst, it could mean lost time and lost material if someone cuts stock they should not be cutting. And for the most expensive process, we will want to have that process be as precise. That process will incur the highest time and material cost so we do not want anything being sent to that process that isnt the correct material or part, as it would cost the highest in lost time and material. The company is looking for a better error rate than what it currently has for manufacturing process assignment, and ideally that rate would be above 99%.
 
 Our second metric to use (should there be only slight precision differences between models) will be F1-score. This will help us to balance precision against recall as we analyze the models.
 
@@ -43,25 +42,35 @@ Our second metric to use (should there be only slight precision differences betw
 
 ### Dataset
 
-The dataset contains around 1000 models which are all parametric variations on 10 different types of fixtures. These models were collected over the course of a month as they passed from the engineering department to the production department. Each fixture is made up of a variety of parts, with each part having a different shape and a different material assigned. The parts make up assemblies which are identified and shown in the table below.
+The dataset contains 995 models which are all parametric variations on 10 different types of fixtures. These models were collected over the course of a month as they passed from the engineering department to the production department. Each fixture is made up of a variety of parts, with each part having a different shape and a different material assigned. The parts make up assemblies which are identified and shown in the table below.
 
-| Assembly  | Type  |
-|---|---|
-| Cab1  | Base Cabinet  |
-| Cab2  | Wall Cabinet  |
-| Cab3  | Pantry Cabinet  |
-| Shelf1  | Removable Shelf  |
-| Shelf2  | Floating Shelf  |
-| Counter1  | Order Counter  |
-| Station1  | Utensil Station  |
-| Bench1  | Bench with back  |
-| Bench2  | Bench with no back  |
-| Table1  | Table  |
+| Assembly  | Type  |  Picture |
+|---|---|---|
+| Cab1  | Base Cabinet  | <img src="Visualizations/Cab1.jpg" width="350" height="350"> |
+| Cab2  | Wall Cabinet  | <img src="Visualizations/Cab2.jpg" width="350" height="350">|
+| Cab3  | Pantry Cabinet  | <img src="Visualizations/Cab3.jpg" width="350" height="350">|
+| Shelf1  | Removable Shelf  | <img src="Visualizations/Shelf1.jpg" width="350" height="350">|
+| Shelf2  | Floating Shelf  | <img src="Visualizations/Shelf2.jpg" width="350" height="350">|
+| Counter1  | Order Counter  | <img src="Visualizations/Counter1.jpg" width="350" height="350">|
+| Station1  | Utensil Station  | <img src="Visualizations/Station1.jpg" width="350" height="350">|
+| Bench1  | Bench with back  | <img src="Visualizations/Bench1.jpg" width="350" height="350">|
+| Bench2  | Bench with no back  | <img src="Visualizations/Bench2.jpg" width="350" height="350">|
+| Table1  | Table  | <img src="Visualizations/Table1.jpg" width="350" height="350">|
 
 
 Each of the solidworks assembly parts were exported to a STL mesh file format using the [Export-to-Mesh](https://github.com/SigmaRelief/SOLIDWORKS-Export-to-Mesh/tree/master) function provided by SigmaRelief.
 
-Samples of these meshes are shown in the project overview section
+Samples of these meshes are shown below:
+
+![Sample-of-Meshes](Visualizations/Sample-of-Meshes.png)
+
+Each part has an initial cutting manufacturing process assigned to it. The manufacturing processes are divided into 5 main categories:
+
+- CNC
+- Panel Saw
+- Metal Laser
+- Metal Band Saw
+- Waterjet
 
 
 ### Time and Material Cost Analysis
@@ -83,7 +92,7 @@ All of the models produced are based on the PointNet model architecture in order
 This approach utilizes a nueral network through pytorch, where all of the data being fed into the model is resampled to have the same size.
 
 
-Our models include one base model, an augmented data model, and two fine tuned augmented data models. All of the models have a Logsoftmax function in order to generate probabilities for each of the classes of the multiclass classification problem. We will show that the fine tuned model seems to give us the best results due to the additional convolutional layers, dropout layers, and specialized AdamW optimizer. 
+Our models include one base model, an augmented data model, and two fine tuned augmented data models. All of the models have a Logsoftmax function in order to generate probabilities for each of the classes of the multiclass classification problem. We will show that the fine tuned model seems to give us the best results due to the additional convolutional layers, dropout layers, and high number of epochs for training.
 
 The base model produced high results on its own, but this was run without any data augmentation applied to the data. This would do poor in situations where data generalization is necessary (for example a shelf at an angle would most likely be classified incorrectly).
 
@@ -98,6 +107,7 @@ The final model had normalization and random rotations applied to the Z directio
 
 ![Final-Classification_Report](Visualizations/Final-Classification_Report.png)
 
+The final model performed worse than our base model, but this is to be expected since the base model would not be able to generalize if the same models were rotated in any way other than being oriented along the x, y or z direction (which is currently how all of the data is oriented and does not reflect all real world situations for data that one would receive)
 
 
 ## Evaluation
@@ -108,9 +118,9 @@ The client is looking for an algorithm that can automatically assign parts to di
 
 - Engineers should be required to triple check assigning parts to the CNC class, as this class costs 71% of the total cost for the company.
 
-- The CNC class has the highest time investment of any other class. Given the amount of time incurred on each machine currently (30 minutes cycle time), it would be beneficial to complete a return on investment analysis of tools and methods that could decrease this time. We are not sure of the tools and methods currently in use, but automatic feed conveyors and material handling systems are just some tools to decrease the cycle time on these machines.
+- The CNC class has the highest time investment of any other class. Though an analysis on production time would be outside the scope of this project, given the amount of time incurred on each machine currently (30 minutes cycle time), it would be beneficial to complete a return on investment analysis of tools and methods that could decrease this time. We are not sure of the tools and methods currently in use, but automatic feed conveyors and material handling systems are just some tools to decrease the cycle time on these machines.
 
-- That are specific features of a part that will dictate what manufacturing process the part might undergo. There seems to be a consistent formula that is followed, so in order to reduce engineering time this formula can be written in a flow diagram which can be used by an administrative member of team who would assign manufacturing processes instead.
+- There are specific features of a part that will dictate what manufacturing process the part might undergo. There seems to be a consistent formula that is followed, so in order to reduce engineering time this formula can be written in a flow diagram which can be used by an administrative member of team who would assign manufacturing processes instead.
 
 ### Model Implementation
 
@@ -146,7 +156,7 @@ Further analysis could yield additional insights such as:
 
 * [Mesh_Preprocessing_Notebooks/Train-Split-Multiclass-Meshes](Mesh_Preprocessing_Notebooks/Train-Split-Multiclass-Mesh_stl-to-obj.ipynb) contains code which uses a csv file to save meshes (stl) as a different file format (obj) in a new directory according to their classes. The second half of the code will further take the meshes in this newly created directory, and split them into folders for train, validation, and test sets of data.
 
-* Meshes/ folder contains all the meshes used for the dataset. The data in this folder can be obtained using the notes in the Reproducibility section below.
+* Meshes/ folder contains all the meshes used for the dataset. This folder and the contained data can be obtained by downloading the dataset in the Reproducibility instructions below.
 
  * Meshes/SW_Models/ folder contains all of the original solidworks models that the stl parts were generated from. These models are saved in a Solidworks for makers file format.
  
@@ -158,7 +168,7 @@ Further analysis could yield additional insights such as:
 
 * [Visualizations/](Visualizations) folder contains all the visualizations from the notebook such as plots and graphs.
 
-* [Pytorch_Model_Save/](Pytorch_Model_Save) folder contains all the saved Pytorch model dictionaries, which can be loaded into the model.
+* Pytorch_Model_Save/ folder contains all the saved Pytorch model dictionaries, which can be loaded into the model. This folder and the contained data can be obtained by downloading the dataset in the Reproducibility instructions below.
 
 * [Presentation/](Presentation/) folder contains all of the presentation content.
 
@@ -174,10 +184,16 @@ This repo can be directly downloaded and contains all of the required files for 
 ```
 └── Part-Processing
     └── Meshes
+    
+
+└── Part-Processing
+    └── Pytorch-Model-Save
             
 ```
 
-All specific versions of packages used in this project are located in the conda environment.yml file located at the top level of this repo.
+[Part-Processing-Dataset](https://www.kaggle.com/datasets/timfuger/part-processing-dataset)
+
+All specific versions of packages used in this project are located in the conda [environment_pytorch3d.yml](environment_pytorch3d.yml) file located at the top level of this repo.
 
 
 For additional info, contact Tim Fuger at tfuger10@gmail.com
