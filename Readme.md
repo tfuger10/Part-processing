@@ -8,7 +8,7 @@ Tim Fuger
 
 Our client Fab Inc. is a custom architecture millwork and metalwork manufacturer. They would like to boost the automation and efficiency in the engineering department by automating the process of assigning the first step in the manufacturing process to a part. This project used a dataset of 3D mesh models of 995 different parts supplied by the company to train a Pytorch nueral network to predict manufacturing process assignment for parts. Our final model achieves a high precision and F1-score in the most expensive class (CNC) and can be used immediately by the company to expedite and reduce error in the assignment process.
 
-<img src="Visualizations/Bench2.jpg" width="500" height="500">
+<img src="Visualizations/Bench2.JPG" width="500" height="500">
 
 
 ## Business Understanding
@@ -46,16 +46,16 @@ The dataset contains 995 models which are all parametric variations on 10 differ
 
 | Assembly  | Type  |  Picture |
 |---|---|---|
-| Cab1  | Base Cabinet  | <img src="Visualizations/Cab1.jpg" width="350" height="350"> |
-| Cab2  | Wall Cabinet  | <img src="Visualizations/Cab2.jpg" width="350" height="350">|
-| Cab3  | Pantry Cabinet  | <img src="Visualizations/Cab3.jpg" width="350" height="350">|
-| Shelf1  | Removable Shelf  | <img src="Visualizations/Shelf1.jpg" width="350" height="350">|
-| Shelf2  | Floating Shelf  | <img src="Visualizations/Shelf2.jpg" width="350" height="350">|
-| Counter1  | Order Counter  | <img src="Visualizations/Counter1.jpg" width="350" height="350">|
-| Station1  | Utensil Station  | <img src="Visualizations/Station1.jpg" width="350" height="350">|
-| Bench1  | Bench with back  | <img src="Visualizations/Bench1.jpg" width="350" height="350">|
-| Bench2  | Bench with no back  | <img src="Visualizations/Bench2.jpg" width="350" height="350">|
-| Table1  | Table  | <img src="Visualizations/Table1.jpg" width="350" height="350">|
+| Cab1  | Base Cabinet  | <img src="Visualizations/Cab1.JPG" width="350" height="350"> |
+| Cab2  | Wall Cabinet  | <img src="Visualizations/Cab2.JPG" width="350" height="350">|
+| Cab3  | Pantry Cabinet  | <img src="Visualizations/Cab3.JPG" width="350" height="350">|
+| Shelf1  | Removable Shelf  | <img src="Visualizations/Shelf1.JPG" width="350" height="350">|
+| Shelf2  | Floating Shelf  | <img src="Visualizations/Shelf2.JPG" width="350" height="350">|
+| Counter1  | Order Counter  | <img src="Visualizations/Counter1.JPG" width="350" height="350">|
+| Station1  | Utensil Station  | <img src="Visualizations/Station1.JPG" width="350" height="350">|
+| Bench1  | Bench with back  | <img src="Visualizations/Bench1.JPG" width="350" height="350">|
+| Bench2  | Bench with no back  | <img src="Visualizations/Bench2.JPG" width="350" height="350">|
+| Table1  | Table  | <img src="Visualizations/Table1.JPG" width="350" height="350">|
 
 
 Each of the solidworks assembly parts were exported to a STL mesh file format using the [Export-to-Mesh](https://github.com/SigmaRelief/SOLIDWORKS-Export-to-Mesh/tree/master) function provided by SigmaRelief.
@@ -75,15 +75,22 @@ Each part has an initial cutting manufacturing process assigned to it. The manuf
 
 ### Time and Material Cost Analysis
 
-After a thorough analysis of the time and material estimates supplied by the company, we came to find that they undertsandably spend quite a bit of time and material costs in cutting parts through these manufacturing processes we are analyzing.
+After a thorough analysis of the time and material estimates supplied by the company, we came to find that the company understandably spends quite a bit of time and material costs in cutting parts through these manufacturing processes we are analyzing.
 
 ![Time-Material-Cost](Visualizations/Time-Material-Cost.png)
 
-The engineering time and cost results in 8 hours and 7% assignment error per month. A full day of engineering time is equivalent to 800 dollars and the 7% error rate would be 7,140 dollars in loss from the total in the chart above. This would mean the company has around a 7,940 dollar loss every month from these assignments.
+The engineering time and cost results in 8 hours and 7% assignment error per month. A full day of engineering time is equivalent to 800 dollars and the 7% error rate would be 7,140 dollars in loss from the total in the chart above. This would mean the company has around a 7,940 dollar loss every month from these manufacturing assignment tasks.
 
 
 ## Data Preparation
 
+In order to prepare the data for modeling, we had to complete five distinct tasks that we had identified:
+
+1. Create a dataframe that does not contain duplicate parts to use in modeling.
+2. Organize files into folder structure to feed into datasets.
+3. Set a standard sample number for amount of vertices in each mesh (the current meshes vary in number of vertices)
+4. Create pytorch datasets and dataloaders from the data.
+5. Assign class weights to counteract the class imbalance in the dataset.
 
 ## Modeling
 
