@@ -66,11 +66,20 @@ Samples of these meshes are shown below:
 
 Each part has an initial cutting manufacturing process assigned to it. The manufacturing processes are divided into 5 main categories:
 
-- CNC
-- Panel Saw
-- Metal Laser
-- Metal Band Saw
-- Waterjet
+
+| Process  |  Picture |
+|---|---|---|
+| CNC  | <a href="https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500"><img src="./Visualizations/CNC.jpg" width="350" height="350"> | 
+| https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500 |
+| Panel Saw  | <a href="https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300"><img src="./Visualizations/Panel_Saw.jpg" width="350" height="350">|
+| https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300 |
+| Metal Laser  | <a href="https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/"><img src="./Visualizations/Metal_Laser.png" width="350" height="350">|
+| https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/ |
+| Metal Band Saw  | <a href="https://www.mscdirect.com/product/details/98049208"><img src="./Visualizations/Metal_Band_Saw.jpg" width="350" height="350">|
+| https://www.mscdirect.com/product/details/98049208 |
+| Waterjet  | <a href="https://www.flowwaterjet.com/waterjet-products/mach-100"><img src="./Visualizations/Waterjet.png" width="350" height="350">|
+| https://www.flowwaterjet.com/waterjet-products/mach-100 |
+
 
 
 ### Time and Material Cost Analysis
