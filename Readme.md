@@ -68,19 +68,20 @@ Each part has an initial cutting manufacturing process assigned to it. The manuf
 
 
 | Process  |  Picture |
-|---|---|---|
-| CNC  | <a href="https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500"><img src="./Visualizations/CNC.jpg" width="350" height="350"> | 
-| https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500 |
-| Panel Saw  | <a href="https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300"><img src="./Visualizations/Panel_Saw.jpg" width="350" height="350">|
-| https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300 |
-| Metal Laser  | <a href="https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/"><img src="./Visualizations/Metal_Laser.png" width="350" height="350">|
-| https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/ |
-| Metal Band Saw  | <a href="https://www.mscdirect.com/product/details/98049208"><img src="./Visualizations/Metal_Band_Saw.jpg" width="350" height="350">|
-| https://www.mscdirect.com/product/details/98049208 |
-| Waterjet  | <a href="https://www.flowwaterjet.com/waterjet-products/mach-100"><img src="./Visualizations/Waterjet.png" width="350" height="350">|
-| https://www.flowwaterjet.com/waterjet-products/mach-100 |
+|---|---|
+| CNC Router  | <a href="https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500"><img src="./Visualizations/CNC.jpg"> | 
+| Panel Saw  | <a href="https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300"><img src="./Visualizations/Panel_Saw.jpg">|
+| Metal Laser  | <a href="https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/"><img src="./Visualizations/Metal_Laser.png">|
+| Metal Band Saw  | <a href="https://www.mscdirect.com/product/details/98049208"><img src="./Visualizations/Metal_Band_Saw.jpg">|
+| Waterjet  | <a href="https://www.flowwaterjet.com/waterjet-products/mach-100"><img src="./Visualizations/Waterjet.png">|
 
-
+    
+Image Links:
+CNC Router - https://www.homag.com/en/product-detail/cnc-gantry-processing-center-centateq-n-500
+Panel Saw - https://www.homag.com/en/product-detail/panel-dividing-saw-sawteq-b-300
+Metal Laser - https://www.mazakoptonics.com/machines/optiplex-nexus-3015-fiber/
+Metal Band Saw - https://www.mscdirect.com/product/details/98049208
+Waterjet - https://www.flowwaterjet.com/waterjet-products/mach-100
 
 ### Time and Material Cost Analysis
 
