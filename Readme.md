@@ -175,7 +175,7 @@ Further analysis could yield additional insights such as:
 ## Repository Navigation
 
 
-* [Notebook](Notebook.ipynb) contains the main data analysis code and notes for this project.
+* [EDA-Modeling-Evaluation](EDA-Modeling-Evaluation.ipynb) contains the main data analysis code and notes for this project.
 
 * [Mesh_Preprocessing_Notebooks/Train-Split-Multiclass-Meshes](Mesh_Preprocessing_Notebooks/Train-Split-Multiclass-Mesh_stl-to-obj.ipynb) contains code which uses a csv file to save meshes (stl) as a different file format (obj) in a new directory according to their classes. The second half of the code will further take the meshes in this newly created directory, and split them into folders for train, validation, and test sets of data.
 
